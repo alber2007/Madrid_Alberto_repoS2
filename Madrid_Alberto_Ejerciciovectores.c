@@ -18,7 +18,7 @@ int main()
         int A[n];
        
     for (int i = 0; i < n; i++) {
-        A[i] = rand() % 100;
+        A[i] = rand() % 50;
     }
 
     for (int i = 0; i < n; i++) {
