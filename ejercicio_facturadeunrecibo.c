@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    char nombre[50];
-    char direccion[100];
+    char nombre[40];
+    char direccion[80];
     int cedula;
     
     int cantidad, i;
